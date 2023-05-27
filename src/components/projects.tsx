@@ -253,6 +253,7 @@ const Projects: React.FC = () => {
                         <a
                           href="https://covid-19-tracker-acb75.web.app/"
                           target="_blank"
+                          rel="noreferrer"
                         >
                           Covid-19 Tracker
                         </a>
@@ -304,6 +305,7 @@ const Projects: React.FC = () => {
                         <a
                           href="https://drive.google.com/file/d/1lHplh83Yx_LcbIz6q6SJaz_JqOlTjTRa/view"
                           target="_blank"
+                          rel="noreferrer"
                         >
                           Quarantine Exercise Portal
                         </a>
