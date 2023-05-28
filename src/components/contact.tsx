@@ -6,12 +6,7 @@ const Contact: React.FC = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-6 col-md-6 col-12">
-            <form
-              action="#"
-              method="get"
-              className="contact-form webform"
-              role="form"
-            >
+            <form action="#" method="get" className="contact-form webform">
               <div className="form-group d-flex flex-column-reverse">
                 <input
                   type="text"
@@ -69,6 +64,7 @@ const Contact: React.FC = () => {
             <h3 className="my-4 pt-4 pt-lg-0">Keep in Touch</h3>
             <p className="mb-1">+639365192469</p>
             <p>
+              {/* eslint-disable-next-line */}
               <a href="#">
                 alingasadan@gmail.com
                 <i className="fas fa-arrow-right custom-icon"></i>
@@ -76,12 +72,24 @@ const Contact: React.FC = () => {
             </p>
             <ul className="social-links mt-2">
               <li>
-                <a href="#" rel="noopener" className="fab fa-facebook"></a>
+                <a
+                  href="https://www.facebook.com/danilo.alingasa.7"
+                  rel="noopener"
+                  className="fab fa-facebook"
+                >
+                  {""}
+                </a>
               </li>
               {/* <li><a href="#" rel="noopener" className="fab fa-twitter"></a></li> */}
               {/* <li><a href="#" rel="noopener" className="fab fa-instagram"></a></li> */}
               <li>
-                <a href="#" rel="noopener" className="fab fa-linkedin"></a>
+                <a
+                  href="https://www.linkedin.com/feed/"
+                  rel="noopener"
+                  className="fab fa-linkedin"
+                >
+                  {" "}
+                </a>
               </li>
               {/* <li><a href="#" rel="noopener" className="fab fa-youtube"></a></li> */}
             </ul>

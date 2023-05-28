@@ -50,7 +50,7 @@ const Projects: React.FC = () => {
                       <img
                         src={require("../assets/projects/LCS.png")}
                         className="about-image img-fluid"
-                        alt="Dan's Portfolio Image"
+                        alt="Dan's Portfolio"
                       />
                     </div>
                   </div>
@@ -95,7 +95,7 @@ const Projects: React.FC = () => {
                       <img
                         src={require("../assets/projects/LECS.png")}
                         className="about-image img-fluid"
-                        alt="Dan's Portfolio Image"
+                        alt="Dan's Portfolio"
                       />
                     </div>
                   </div>
@@ -139,14 +139,14 @@ const Projects: React.FC = () => {
                           <img
                             src={require("../assets/projects/TaskKingLog.PNG")}
                             className="about-image img-fluid"
-                            alt="Dan's Portfolio Image"
+                            alt="Dan's Portfolio"
                           />
                         </div>
                         <div className="col-lg-6 col-md-6 col-12">
                           <img
                             src={require("../assets/projects/TaskKing.PNG")}
                             className="about-image img-fluid"
-                            alt="Dan's Resume HTML Template"
+                            alt="Dan's Portfolio"
                           />
                         </div>
                       </div>
@@ -194,7 +194,7 @@ const Projects: React.FC = () => {
                           <img
                             src={require("../assets/projects/DCISM.PNG")}
                             className="about-image img-fluid"
-                            alt="Dan's Portfolio Image"
+                            alt="Dan's Portfolio"
                           />
                         </div>
                       </div>
@@ -262,7 +262,7 @@ const Projects: React.FC = () => {
                       <img
                         src={require("../assets/projects/Covid-19-tracker.png")}
                         className="about-image img-fluid"
-                        alt="Dan's Portfolio Image"
+                        alt="Dan's Portfolio"
                       />
                     </div>
                   </div>
@@ -314,7 +314,7 @@ const Projects: React.FC = () => {
                       <img
                         src={require("../assets/projects/QurantineEP.PNG")}
                         className="about-image img-fluid"
-                        alt="Dan's Portfolio Image"
+                        alt="Dan's Portfolio"
                       />
                     </div>
                   </div>

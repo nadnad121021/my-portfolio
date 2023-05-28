@@ -24,7 +24,7 @@ const AboutMe: React.FC = () => {
             <img
               src={require("../assets/true-agency.jpg")}
               className="about-image img-fluid"
-              alt="Dan's Portfolio Image"
+              alt="Dan's Portfolio"
             />
           </div>
         </div>

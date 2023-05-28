@@ -4,7 +4,7 @@ const Navbar: React.FC = () => {
   return (
     <nav className="navbar navbar-expand-lg">
       <div className="container">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="/">
           Danilo Alingasa
         </a>
 
@@ -48,7 +48,7 @@ const Navbar: React.FC = () => {
           </ul>
 
           <div className="mt-lg-0 mt-3 mb-4 mb-lg-0">
-            <a href="#" className="custom-btn btn" download>
+            <a href="#download" className="custom-btn btn" download>
               Download CV
             </a>
           </div>

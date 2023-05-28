@@ -16,7 +16,7 @@ const Reviews: React.FC = () => {
                     <img
                       src={require("../assets/testimonial-image01.jpg")}
                       className="img-fluid"
-                      alt="testimonials image"
+                      alt="testimonials"
                     />
                   </div>
 
@@ -38,7 +38,7 @@ const Reviews: React.FC = () => {
                     <img
                       src={require("../assets/testimonial-image02.jpg")}
                       className="img-fluid"
-                      alt="testimonials image"
+                      alt="testimonials"
                     />
                   </div>
 
@@ -60,7 +60,7 @@ const Reviews: React.FC = () => {
                     <img
                       src={require("../assets/testimonial-image03.jpg")}
                       className="img-fluid"
-                      alt="testimonials image"
+                      alt="testimonials"
                     />
                   </div>
 
@@ -82,7 +82,7 @@ const Reviews: React.FC = () => {
                     <img
                       src={require("../assets/testimonial-image04.jpg")}
                       className="img-fluid"
-                      alt="testimonials image"
+                      alt="testimonials"
                     />
                   </div>
 

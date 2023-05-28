@@ -12,7 +12,7 @@ const Introduction: React.FC = () => {
             <img
               src={require("../assets/dan3-white-bg.png")}
               className="img-fluid"
-              alt="Dan's Portfolio Image"
+              alt="Dan's Portfolio"
             />
           </div>
 
