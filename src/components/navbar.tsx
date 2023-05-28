@@ -48,7 +48,8 @@ const Navbar: React.FC = () => {
           </ul>
 
           <div className="mt-lg-0 mt-3 mb-4 mb-lg-0">
-            <a href="#download" className="custom-btn btn" download>
+            {/* eslint-disable-next-line */}
+            <a href="javascript:void(0)" className="custom-btn btn">
               Download CV
             </a>
           </div>
