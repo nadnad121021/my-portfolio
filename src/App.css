@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+.alert-error {
+  padding: 8px;
+  background-color: #dd9482; /* Red */
+  color: #ffff;
+  margin-bottom: 15px;
+  border-radius: 25px;
+  border: 2px solid #ca694b;
+}
+
+.alert-success {
+  padding: 8px;
+  background-color: #82ddc6; /* Red */
+  color: #ffff;
+  margin-bottom: 15px;
+  border-radius: 25px;
+  border: 2px solid #4bcaab;
+}
+
+/* The close button */
+.alert-closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.alert-closebtn:hover {
+  color: black;
+}
+
+.validation-text {
+  font-size: var(--base-font-size);
+  display: block;
+  margin: 1.5rem 2rem 0 2rem;
+  color: #ca694b;
+}
