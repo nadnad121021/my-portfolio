@@ -24,7 +24,7 @@ const Introduction: React.FC = () => {
               </a> */}
             </div>
             <span className="faq-info-text">
-              <p>It takes thousands of inputs to achieve good output.</p>
+              <p>❝ It takes thousands of inputs to achieve good output. ❞</p>
             </span>
           </div>
         </div>
