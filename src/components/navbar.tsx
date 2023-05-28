@@ -49,7 +49,10 @@ const Navbar: React.FC = () => {
 
           <div className="mt-lg-0 mt-3 mb-4 mb-lg-0">
             {/* eslint-disable-next-line */}
-            <a href="javascript:void(0)" className="custom-btn btn">
+            <a
+              href="https://drive.google.com/uc?export=download&id=1MK9BtuCMvmlAKAatxzqcBtl6bdbRxMIR"
+              className="custom-btn btn"
+            >
               Download CV
             </a>
           </div>
