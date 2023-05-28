@@ -19,9 +19,9 @@ const Introduction: React.FC = () => {
           <div className="d-flex flex-column justify-content-center align-items-center col-lg-7 col-md-7 col-12">
             <div className="hero-text">
               <h1 className="hero-title">Dan, a Software Engineer</h1>
-              <a href="#" className="email-link">
+              {/* <a href="#" className="email-link">
                 alingasadan@gmail.com
-              </a>
+              </a> */}
             </div>
             <span className="faq-info-text">
               <p>It takes thousands of inputs to achieve good output.</p>
