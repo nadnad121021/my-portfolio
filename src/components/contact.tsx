@@ -89,7 +89,7 @@ const Contact: React.FC = () => {
           show: true,
           type: "error",
           message:
-            "Something went wrong.Your message was not sent.You can directly sent email to alingasadan@gmail.com. Thanks",
+            "Apologies, but an error occurred preventing the delivery of your message. Please feel free to send an email directly to alingasadan@gmail.com instead. Thank you.",
         });
       }
       setFormData({ ...initialState });
@@ -128,7 +128,7 @@ const Contact: React.FC = () => {
     if (banner.show) {
       setTimeout(() => {
         setBanner({ ...banner, show: false });
-      }, 3000);
+      }, 6000);
     }
     // eslint-disable-next-line
   }, [banner.show]);
